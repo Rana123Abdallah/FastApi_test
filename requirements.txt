@@ -82,7 +82,7 @@ soundfile==0.12.1
 soxr==0.3.5
 SQLAlchemy==2.0.4
 starlette==0.25.0
-tensorboard==2.12.3
+tensorboard==2.11.2
 tensorboard-data-server==0.7.0
 tensorflow-estimator==2.12.0
 tensorflow-intel==2.12.0
