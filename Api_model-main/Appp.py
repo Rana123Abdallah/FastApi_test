@@ -2,11 +2,11 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import numpy as np
-import tensorflow as tf
+import tensorflow 
 import librosa
 from io import BytesIO
 
-model = tf.keras.models.load_model(r'D:\Api_model-main\Api_model-main\model.h4')
+model = tensorflow.keras.models.load_model(r'D:\Api_model-main\Api_model-main\model.h4')
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
