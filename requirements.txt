@@ -49,7 +49,7 @@ Markdown==3.4.3
 MarkupSafe==2.1.2
 ml-dtypes==0.1.0
 msgpack==1.0.5
-numba==0.50.1
+numba==0.54.1
 numpy==1.23.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
