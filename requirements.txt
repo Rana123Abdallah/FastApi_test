@@ -1,3 +1,4 @@
+python==3.11.2
 absl-py==1.4.0
 aiosmtplib==2.0.1
 alembic==1.10.3
