@@ -43,7 +43,7 @@ keras==2.11.0
 lazy_loader==0.2
 libclang==16.0.0
 librosa==0.10.0.post2
-llvmlite==0.39.1
+llvmlite==0.38.0
 Mako==1.2.4
 Markdown==3.4.3
 MarkupSafe==2.1.2
